@@ -6,7 +6,8 @@
       "@/*": [
         "./*"
       ]
-    }
+    },
+    "types": ["jest", "parse-json"]
   },
   "include": [
     "**/*.ts",

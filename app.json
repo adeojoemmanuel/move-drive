@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "moove",
-    "slug": "wemove",
+    "slug": "weMove",
     "version": "1.0.0",
     "jsEngine": "jsc",
     "orientation": "portrait",
